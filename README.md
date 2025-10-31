@@ -723,4 +723,4 @@ END //
 
 DELIMITER ;
 
-SELECT '=== TRIGGERS ===' as info;
+SELECT '=== TRIGGERS CREADOS CORRECTAMENTE ===' as info;
